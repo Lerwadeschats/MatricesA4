@@ -1,0 +1,156 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AAssert_002Ecs_002Fl_003AC_0021_003FUsers_003Falexi_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FSourcesCache_003F46a322d26154b982566e1817203e5452c91223f93b0e392d9c5b4806696fdc1_003FAssert_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AMethodBaseInvoker_002Ecs_002Fl_003AC_0021_003FUsers_003Falexi_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FSourcesCache_003Fd882146b4f265f10bcbec2663fce248db9ffec5fa1aeaf76e32a11ba5eafcd6_003FMethodBaseInvoker_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=22f0ed57_002D8dc1_002D4f96_002D8fcf_002D95c77878951e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestParentChangePositionAndRotation" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests21_TransformSetParentAndCheckWorldPosition.TestParentChangePositionAndRotation&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests22_TransformChangeWorldPosition.TestChangeWorldPosition&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;ProjectFile&gt;7827425C-97FF-4400-92A8-12FCDA6BA2B9/f:Tests17_TransformLocalPosition.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;7827425C-97FF-4400-92A8-12FCDA6BA2B9/f:Tests18_TransformLocalRotations.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;7827425C-97FF-4400-92A8-12FCDA6BA2B9/f:Tests19_TransformLocalScale.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;7827425C-97FF-4400-92A8-12FCDA6BA2B9/f:Tests20_TransformLocalEverything.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;7827425C-97FF-4400-92A8-12FCDA6BA2B9/f:Tests21_TransformSetParentAndCheckWorldPosition.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2814e0c2_002Dd8fc_002D4427_002Db746_002Df8ff7dd98926/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestParentChangePosition #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests21_TransformSetParentAndCheckWorldPosition.TestParentChangePosition&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests21_TransformSetParentAndCheckWorldPosition.TestDoubleParentChangePosition&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=556c4703_002D4bc8_002D4262_002D976f_002D6e1745c0cb69/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestChangeRotationXAxis" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;And&gt;&#xD;
+      &lt;TestAncestor&gt;&#xD;
+        &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests18_TransformLocalRotations.TestChangeRotationXAxis&lt;/TestId&gt;&#xD;
+        &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests18_TransformLocalRotations.TestChangeRotationYAxis&lt;/TestId&gt;&#xD;
+        &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests18_TransformLocalRotations.TestChangeRotationZAxis&lt;/TestId&gt;&#xD;
+        &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests18_TransformLocalRotations.TestChangeRotationMultipleAxis&lt;/TestId&gt;&#xD;
+        &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests19_TransformLocalScale&lt;/TestId&gt;&#xD;
+        &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests20_TransformLocalEverything&lt;/TestId&gt;&#xD;
+      &lt;/TestAncestor&gt;&#xD;
+      &lt;Not&gt;&#xD;
+        &lt;TestAncestor&gt;&#xD;
+          &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests18_TransformLocalRotations&lt;/TestId&gt;&#xD;
+          &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests19_TransformLocalScale&lt;/TestId&gt;&#xD;
+        &lt;/TestAncestor&gt;&#xD;
+      &lt;/Not&gt;&#xD;
+    &lt;/And&gt;&#xD;
+    &lt;ProjectFile&gt;7827425C-97FF-4400-92A8-12FCDA6BA2B9/f:Tests17_TransformLocalPosition.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;7827425C-97FF-4400-92A8-12FCDA6BA2B9/f:Tests18_TransformLocalRotations.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;7827425C-97FF-4400-92A8-12FCDA6BA2B9/f:Tests19_TransformLocalScale.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;7827425C-97FF-4400-92A8-12FCDA6BA2B9/f:Tests21_TransformSetParentAndCheckWorldPosition.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5ad48869_002D1121_002D411c_002Db8ab_002Ddd5346d9325e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestParentChangePositionAndScale" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests21_TransformSetParentAndCheckWorldPosition.TestParentChangePositionAndScale&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests21_TransformSetParentAndCheckWorldPosition.TestParentChangePosition&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests21_TransformSetParentAndCheckWorldPosition.TestDoubleParentChangePosition&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;ProjectFile&gt;7827425C-97FF-4400-92A8-12FCDA6BA2B9/f:Tests19_TransformLocalScale.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;7827425C-97FF-4400-92A8-12FCDA6BA2B9/f:Tests17_TransformLocalPosition.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;7827425C-97FF-4400-92A8-12FCDA6BA2B9/f:Tests18_TransformLocalRotations.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;7827425C-97FF-4400-92A8-12FCDA6BA2B9/f:Tests20_TransformLocalEverything.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;7827425C-97FF-4400-92A8-12FCDA6BA2B9/f:Tests21_TransformSetParentAndCheckWorldPosition.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=60300edb_002D9538_002D4825_002D891f_002Dd99eb74bda17/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestQuaternionToEulerCustomAxis1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests28_QuaternionsEulerConversions&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;ProjectFile&gt;7827425C-97FF-4400-92A8-12FCDA6BA2B9/f:Tests27_QuaternionsMatrix.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7087501e_002D44ae_002D4475_002D9be7_002D7f5c34d84873/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestChangeEverythingEverywhereAllAtOnce" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;ProjectFile&gt;7827425C-97FF-4400-92A8-12FCDA6BA2B9/f:Tests20_TransformLocalEverything.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;7827425C-97FF-4400-92A8-12FCDA6BA2B9/f:Tests21_TransformSetParentAndCheckWorldPosition.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;7827425C-97FF-4400-92A8-12FCDA6BA2B9/f:Tests22_TransformChangeWorldPosition.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;7827425C-97FF-4400-92A8-12FCDA6BA2B9/f:Tests17_TransformLocalPosition.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;7827425C-97FF-4400-92A8-12FCDA6BA2B9/f:Tests19_TransformLocalScale.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests23_NewQuaternions&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=92d69f51_002D9e84_002D4336_002Dae29_002D7564035086b2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestParentChangePosition" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests21_TransformSetParentAndCheckWorldPosition.TestParentChangePosition&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;ProjectFile&gt;7827425C-97FF-4400-92A8-12FCDA6BA2B9/f:Tests16_TransformationMatrices.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;7827425C-97FF-4400-92A8-12FCDA6BA2B9/f:Tests17_TransformLocalPosition.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;7827425C-97FF-4400-92A8-12FCDA6BA2B9/f:Tests18_TransformLocalRotations.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;7827425C-97FF-4400-92A8-12FCDA6BA2B9/f:Tests19_TransformLocalScale.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bfec2994_002Da502_002D48e7_002Dbd8b_002D876fe4dc0000/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestNewQuaternionFromAnother" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;ProjectFile&gt;7827425C-97FF-4400-92A8-12FCDA6BA2B9/f:Tests23_NewQuaternions.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;7827425C-97FF-4400-92A8-12FCDA6BA2B9/f:Tests24_QuaternionsAngleAxis.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;7827425C-97FF-4400-92A8-12FCDA6BA2B9/f:Tests25_QuaternionsMultiplication.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;7827425C-97FF-4400-92A8-12FCDA6BA2B9/f:Tests26_QuaternionsPointRotation.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests27_QuaternionsMatrix.TestQuaternionMatrixXAxis&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests27_QuaternionsMatrix&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c7ca1812_002D40f0_002D4a8d_002D9106_002D4173a68beabf/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestQuaternionToEulerCustomAxis2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests28_QuaternionsEulerConversions&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;ProjectFile&gt;7827425C-97FF-4400-92A8-12FCDA6BA2B9/f:Tests27_QuaternionsMatrix.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;7827425C-97FF-4400-92A8-12FCDA6BA2B9/f:Tests26_QuaternionsPointRotation.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d37ee1fa_002Dd1ff_002D4106_002D8aa8_002D6d4036aa0f2a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestQuaternionMatrixXAxis" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;ProjectFile&gt;7827425C-97FF-4400-92A8-12FCDA6BA2B9/f:Tests27_QuaternionsMatrix.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests28_QuaternionsEulerConversions.TestQuaternionFromEulerCustomAxis1&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;ProjectFile&gt;7827425C-97FF-4400-92A8-12FCDA6BA2B9/f:Tests28_QuaternionsEulerConversions.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=db2537a9_002Da649_002D4381_002D9aee_002Df7015afa407b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests06_MatricesMultiplication" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;And&gt;&#xD;
+      &lt;TestAncestor&gt;&#xD;
+        &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests06_MatricesMultiplication&lt;/TestId&gt;&#xD;
+        &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests07_TransposeMatrices&lt;/TestId&gt;&#xD;
+        &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests08_ElementaryOperations&lt;/TestId&gt;&#xD;
+        &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests09_AugmentedMatricesAndSplit&lt;/TestId&gt;&#xD;
+        &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests10_RowReduction.TestApplyRowReduction_CourseExample&lt;/TestId&gt;&#xD;
+        &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests10_RowReduction&lt;/TestId&gt;&#xD;
+        &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests11_InvertMatricesUsingRowReduction&lt;/TestId&gt;&#xD;
+        &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests16_TransformationMatrices&lt;/TestId&gt;&#xD;
+      &lt;/TestAncestor&gt;&#xD;
+      &lt;Not&gt;&#xD;
+        &lt;TestAncestor&gt;&#xD;
+          &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests11_InvertMatricesUsingRowReduction&lt;/TestId&gt;&#xD;
+          &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests10_RowReduction&lt;/TestId&gt;&#xD;
+          &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests08_ElementaryOperations&lt;/TestId&gt;&#xD;
+          &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests09_AugmentedMatricesAndSplit&lt;/TestId&gt;&#xD;
+          &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests06_MatricesMultiplication&lt;/TestId&gt;&#xD;
+          &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests07_TransposeMatrices&lt;/TestId&gt;&#xD;
+        &lt;/TestAncestor&gt;&#xD;
+      &lt;/Not&gt;&#xD;
+    &lt;/And&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests17_TransformLocalPosition&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests18_TransformLocalRotations&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests19_TransformLocalScale&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::7827425C-97FF-4400-92A8-12FCDA6BA2B9::net8.0::Maths_Matrices.Tests.Tests20_TransformLocalEverything&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ec3e0cda_002D47fa_002D4743_002D931c_002D6df149c6df70/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestApplyRowReduction_Exercise" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="D:\A4\Matrices\TestsUnitaires\TestUnit\TestUnit" Presentation="&amp;lt;TestUnit&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

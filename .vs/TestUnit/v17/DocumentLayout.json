@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\A4\\Matrices\\TestsUnitaires\\TestUnit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7827425C-97FF-4400-92A8-12FCDA6BA2B9}|TestUnit\\TestUnit.csproj|d:\\a4\\matrices\\testsunitaires\\testunit\\testunit\\tests13_determinants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7827425C-97FF-4400-92A8-12FCDA6BA2B9}|TestUnit\\TestUnit.csproj|solutionrelative:testunit\\tests13_determinants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tests13_Determinants.cs",
+              "DocumentMoniker": "D:\\A4\\Matrices\\TestsUnitaires\\TestUnit\\TestUnit\\Tests13_Determinants.cs",
+              "RelativeDocumentMoniker": "TestUnit\\Tests13_Determinants.cs",
+              "ToolTip": "D:\\A4\\Matrices\\TestsUnitaires\\TestUnit\\TestUnit\\Tests13_Determinants.cs",
+              "RelativeToolTip": "TestUnit\\Tests13_Determinants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:09:40.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
